@@ -20,8 +20,10 @@ print (" >>>Dados do pedido")
 
 print ("--------------------------------")
 
-#SAÍDA DE DADOS print (": cpf") - cpf print ("nome: ") - nome
+#SAÍDA DE DADOS 
 
+print (": cpf") - cpf 
+print ("nome: ") - nome
 print ("ITEM 1") print ("CÓDIGO informado: ") - c1 
 print ("QUANTIDADE informado: ") - q1 
 print ("VALOR informado: ") - v1
